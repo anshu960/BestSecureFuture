@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c3d1073-89b9-471c-8ebe-d6e5a2983561" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../app/src/main/java/com/darkness/sparkwomen/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../app/src/main/java/com/darkness/sparkwomen/LawDisplayerActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../app/src/main/java/com/darkness/sparkwomen/LawModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../app/src/main/java/com/darkness/sparkwomen/LawsActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../app/src/main/java/com/darkness/sparkwomen/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../app/src/main/java/com/darkness/sparkwomen/MyAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../app/src/main/java/com/darkness/sparkwomen/SelfDefenseActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../app/src/main/java/com/darkness/sparkwomen/SplashActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../app/src/main/java/com/darkness/sparkwomen/SplashActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../app/src/main/res/layout/activity_contact.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../app/src/main/res/layout/activity_contact.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../app/src/main/res/layout/activity_splash.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../app/src/main/res/layout/activity_splash.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
