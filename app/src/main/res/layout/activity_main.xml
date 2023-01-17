@@ -29,7 +29,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Spark Women"
+        android:text="Best Secure Future"
         android:layout_above="@id/relativeLayout"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="50dp"
@@ -121,61 +121,6 @@
                 android:layout_gravity="center"/>
 
         </LinearLayout>
-
-        <LinearLayout
-            android:orientation="vertical"
-            android:layout_marginTop="50dp"
-            android:layout_below="@id/second"
-            android:id="@+id/fourth"
-            android:clickable="true"
-            android:focusable="true"
-            android:gravity="center"
-            android:layout_width="150dp"
-            android:layout_toRightOf="@id/third"
-            android:layout_height="150dp"
-            android:background="@drawable/oval_purple_full">
-
-            <ImageView
-                android:layout_gravity="center"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:src="@drawable/law_image"/>
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Basic Laws"
-                android:layout_gravity="center"/>
-        </LinearLayout>
-
-
-        <LinearLayout
-            android:orientation="vertical"
-            android:gravity="center"
-            android:id="@+id/fifth"
-            android:layout_width="150dp"
-            android:layout_height="150dp"
-
-            android:layout_marginTop="50dp"
-            android:layout_below="@id/second"
-            android:clickable="true"
-            android:focusable="true"
-            android:layout_toRightOf="@id/first"
-            android:background="@drawable/oval_purple_full">
-
-            <ImageView
-                android:layout_gravity="center"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:src="@drawable/self_defence"/>
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Self Defence"
-                android:layout_gravity="center"/>
-        </LinearLayout>
-
 
 
     </RelativeLayout>

@@ -18,7 +18,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Spark Women"
+        android:text="@string/best_secure_future"
         android:textSize="45sp"
         android:layout_centerHorizontal="true"
         android:textColor="#803A99"
@@ -32,7 +32,7 @@
         android:layout_height="700px"
         android:layout_centerVertical="true"
         android:paddingStart="30dp"
-        android:src="@drawable/girl"
+        android:src="@drawable/splashscreen"
         android:id="@+id/sparkImg"
         android:layout_centerHorizontal="true"
         />

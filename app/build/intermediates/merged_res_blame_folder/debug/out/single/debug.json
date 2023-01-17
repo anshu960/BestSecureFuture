@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\debug\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\debug\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\debug\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\debug\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\drawable_splashscreen.jpeg.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\drawable\\splashscreen.jpeg"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\debug\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_delete_24.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\drawable\\ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\raw_siren.wav.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\raw\\siren.wav"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\drawable_top_left_corner_oval.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\drawable\\top_left_corner_oval.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\drawable_purple_background.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\drawable\\purple_background.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_laws.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\layout\\activity_laws.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\layout_law_item.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\layout\\law_item.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\debug\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\debug\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sms.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\layout\\activity_sms.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\debug\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\drawable_girl.jpg.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\drawable\\girl.jpg"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\debug\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\debug\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_contact.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\layout\\activity_contact.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\drawable_contact.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\drawable\\contact.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\drawable_self_defence.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\drawable\\self_defence.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\debug\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\layout_contact_item.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\layout\\contact_item.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\debug\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\drawable_laws.png.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\drawable\\laws.png"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\debug\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\debug\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_logout_24.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\drawable\\ic_baseline_logout_24.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_terms_and_condition.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\layout\\activity_terms_and_condition.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\drawable_oval_purple_full.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\drawable\\oval_purple_full.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\drawable_girlpower.png.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\drawable\\girlpower.png"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_law_displayer.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\layout\\activity_law_displayer.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_close_24.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\drawable\\ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_message_24.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\drawable\\ic_baseline_message_24.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_law_image.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\drawable-v24\\law_image.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\drawable_settings.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\drawable\\settings.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\drawable\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\debug\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\layout_floating_menu.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\layout\\floating_menu.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\debug\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_self_defense.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\layout\\activity_self_defense.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\drawable_sitting_girl.png.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\drawable\\sitting_girl.png"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangle_border.xml.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\main\\res\\drawable\\rectangle_border.xml"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\debug\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Spark-Women12\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Spark-Women12\\app\\src\\debug\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

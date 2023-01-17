@@ -22,31 +22,7 @@
         android:orientation="vertical"
         android:layout_marginHorizontal="50dp"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Emergency Contacts :"/>
-
-        <TextView
-            android:layout_marginStart="50dp"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Police : 100"/>
-
-        <TextView
-            android:layout_marginStart="50dp"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Ambulance : 101"/>
-
-        <TextView
-            android:layout_marginStart="50dp"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Fire brigade : 102"/>
-    </LinearLayout>
+        android:layout_height="wrap_content"/>
 
     <TextView
         android:layout_width="wrap_content"
