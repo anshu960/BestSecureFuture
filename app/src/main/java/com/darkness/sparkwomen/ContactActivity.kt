@@ -3,13 +3,8 @@ package com.darkness.sparkwomen
 import android.app.Dialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.RecyclerView
-import com.darkness.sparkwomen.ContactsAdapter
-import com.darkness.sparkwomen.MyOnClickListener
 import android.content.Intent
-import com.darkness.sparkwomen.MainActivity
 import android.os.Bundle
-import com.darkness.sparkwomen.R
-import android.content.SharedPreferences
 import android.view.View
 import android.view.Window
 import android.widget.*
@@ -69,7 +64,7 @@ class ContactActivity : AppCompatActivity() {
         setCallingInformation()
         contacts = HashMap()
         send = ArrayList()
-        adapter = ContactsAdapter(this, send) { position -> deleteItemFromDatabase(position) }
+        adapter = ContactsAdapter(this, send!!) { position -> deleteItemFromDatabase(position as Int) }
         recyclerView = findViewById(R.id.contacts)
         recyclerView.setAdapter(adapter)
         recyclerView.setLayoutManager(LinearLayoutManager(this))

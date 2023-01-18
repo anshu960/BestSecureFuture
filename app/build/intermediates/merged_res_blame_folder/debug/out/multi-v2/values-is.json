@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Spark-Women12\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-is\\values-is.xml",
+            "outputFile": "E:\\BestSecureFuture\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-is\\values-is.xml",
             "map": [
                 {
                     "source": "C:\\Users\\anshu\\.gradle\\caches\\transforms-3\\afb1db6ff59ac80c8f7cc51fede10186\\transformed\\jetified-play-services-base-18.0.1\\res\\values-is\\values.xml",

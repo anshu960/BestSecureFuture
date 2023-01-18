@@ -63,7 +63,6 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
-array lawsBig
 attr SharedValue
 attr SharedValueId
 attr actionBarDivider
@@ -2688,13 +2687,11 @@ id auto
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
-id backBtn
 id barrier
 id baseline
 id beginOnFirstDraw
 id beginning
 id bestChoice
-id bigLaws
 id blocking
 id bottom
 id bottomLayout
@@ -2730,7 +2727,6 @@ id clear_text
 id clip_horizontal
 id clip_vertical
 id clockwise
-id closeBtn
 id closest
 id collapseActionView
 id compress
@@ -2836,7 +2832,6 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
-id imgLaw
 id immediateStop
 id included
 id info
@@ -2847,10 +2842,6 @@ id item_touch_helper_previous_elevation
 id jumpToEnd
 id jumpToStart
 id labeled
-id lastLinear
-id lawItem
-id lawString
-id layText
 id layout
 id left
 id leftToRight
@@ -2929,7 +2920,6 @@ id navigation_header_container
 id never
 id neverCompleteToEnd
 id neverCompleteToStart
-id nextBtn
 id noScroll
 id noState
 id none
@@ -2965,7 +2955,6 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
-id recycleLaws
 id relativeLayout
 id reverseSawtooth
 id right
@@ -3109,7 +3098,6 @@ id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
-id webView
 id west
 id wide
 id withText
@@ -3207,10 +3195,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_contact
-layout activity_law_displayer
-layout activity_laws
 layout activity_main
-layout activity_self_defense
 layout activity_sms
 layout activity_splash
 layout activity_terms_and_condition
@@ -3233,7 +3218,6 @@ layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout dialog
 layout floating_menu
-layout law_item
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title

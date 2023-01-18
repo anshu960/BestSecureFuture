@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Spark-Women12\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs\\values-bs.xml",
+            "outputFile": "E:\\BestSecureFuture\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs\\values-bs.xml",
             "map": [
                 {
                     "source": "C:\\Users\\anshu\\.gradle\\caches\\transforms-3\\e4ec512f148026cb7442f312071e33c4\\transformed\\core-1.10.0-alpha01\\res\\values-bs\\values-bs.xml",

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:2:1-45:12
+ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:2:1-45:12
 MERGED from [com.karumi:dexter:6.2.3] C:\Users\anshu\.gradle\caches\transforms-3\eba3a4faa9afdf1e8a11490436d0b679\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:17:1-32:12
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\anshu\.gradle\caches\transforms-3\9dd7f4741789a65e4c89887fa787b904\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\anshu\.gradle\caches\transforms-3\b2294cfbbf21ba57cd8ed7f670ef78ca\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
@@ -54,61 +54,61 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\anshu\.gradle\ca
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\anshu\.gradle\caches\transforms-3\66ef93d6317d51cc0c6e752842cffbc3\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\anshu\.gradle\caches\transforms-3\d23d74fcadfcc48a8062d9c4d4b344ab\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\anshu\.gradle\caches\transforms-3\28265d0f0fea1c0de3c062c47e9312c4\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:2:1-45:12
 	package
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:3:5-38
-		INJECTED from E:\Spark-Women12\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Spark-Women12\app\src\main\AndroidManifest.xml
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\Spark-Women12\app\src\main\AndroidManifest.xml
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:2:1-45:12
-		INJECTED from E:\Spark-Women12\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from E:\Spark-Women12\app\src\main\AndroidManifest.xml
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:2:1-45:12
-		INJECTED from E:\Spark-Women12\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:5:5-81
+ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:5:5-81
 	android:name
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:5:22-78
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:5:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:6:22-76
 uses-permission#android.permission.SEND_SMS
-ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:7:5-67
+ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:7:5-67
 	android:name
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:7:22-64
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:7:22-64
 uses-permission#android.permission.CALL_PHONE
-ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:8:5-69
+ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:8:5-69
 	android:name
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:8:22-66
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:8:22-66
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:9:5-77
+ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:9:5-77
 	android:name
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:9:22-74
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:9:22-74
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:10:5-78
+ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:10:5-78
 	android:name
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:10:22-75
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:10:22-75
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:11:5-80
+ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:11:5-80
 	android:name
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:11:22-77
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:11:22-77
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:12:5-71
+ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:12:5-71
 	android:name
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:12:22-68
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:12:22-68
 uses-permission#android.permission.CAMERA
-ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:13:5-65
+ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:13:5-65
 	android:name
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:13:22-62
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:13:22-62
 application
-ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:15:5-43:19
+ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:15:5-43:19
 MERGED from [com.karumi:dexter:6.2.3] C:\Users\anshu\.gradle\caches\transforms-3\eba3a4faa9afdf1e8a11490436d0b679\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:26:5-30:19
 MERGED from [com.karumi:dexter:6.2.3] C:\Users\anshu\.gradle\caches\transforms-3\eba3a4faa9afdf1e8a11490436d0b679\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:26:5-30:19
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\anshu\.gradle\caches\transforms-3\9dd7f4741789a65e4c89887fa787b904\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
@@ -142,65 +142,65 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\an
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.10.0-alpha01] C:\Users\anshu\.gradle\caches\transforms-3\e4ec512f148026cb7442f312071e33c4\transformed\core-1.10.0-alpha01\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:20:9-35
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:20:9-35
 	android:label
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:18:9-41
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:18:9-41
 	android:roundIcon
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:19:9-54
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:19:9-54
 	android:icon
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:17:9-43
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:17:9-43
 	android:allowBackup
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:16:9-35
 	android:theme
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:21:9-48
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:21:9-48
 activity#com.darkness.sparkwomen.Terms_and_Condition
-ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:22:9-28:20
+ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:22:9-28:20
 	android:exported
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:24:13-37
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:24:13-37
 	android:name
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:23:13-48
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:23:13-48
 meta-data#android.app.lib_name
-ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:25:13-27:36
+ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:25:13-27:36
 	android:value
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:27:17-33
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:27:17-33
 	android:name
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:26:17-52
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:26:17-52
 activity#com.darkness.sparkwomen.SmsActivity
-ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:29:9-49
+ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:29:9-49
 	android:name
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:29:19-46
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:29:19-46
 activity#com.darkness.sparkwomen.MainActivity
-ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:30:9-50
+ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:30:9-50
 	android:name
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:30:19-47
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:30:19-47
 activity#com.darkness.sparkwomen.SplashActivity
-ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:31:9-39:20
+ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:31:9-39:20
 	android:exported
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:33:13-36
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:33:13-36
 	android:name
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:32:13-43
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:32:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:34:13-38:29
+ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:34:13-38:29
 action#android.intent.action.MAIN
-ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:35:17-69
+ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:35:25-66
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:37:17-77
+ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:37:17-77
 	android:name
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:37:27-74
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:37:27-74
 activity#com.darkness.sparkwomen.ContactActivity
-ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:40:9-53
+ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:40:9-53
 	android:name
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:40:19-50
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:40:19-50
 service#com.darkness.sparkwomen.ServiceMine
-ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:42:9-48
+ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:42:9-48
 	android:name
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml:42:18-45
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml:42:18-45
 uses-sdk
-INJECTED from E:\Spark-Women12\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\Spark-Women12\app\src\main\AndroidManifest.xml
-INJECTED from E:\Spark-Women12\app\src\main\AndroidManifest.xml
+INJECTED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml
+INJECTED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml
 MERGED from [com.karumi:dexter:6.2.3] C:\Users\anshu\.gradle\caches\transforms-3\eba3a4faa9afdf1e8a11490436d0b679\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:22:5-24:41
 MERGED from [com.karumi:dexter:6.2.3] C:\Users\anshu\.gradle\caches\transforms-3\eba3a4faa9afdf1e8a11490436d0b679\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:22:5-24:41
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\anshu\.gradle\caches\transforms-3\9dd7f4741789a65e4c89887fa787b904\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
@@ -301,16 +301,16 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\anshu\.gradle\caches\transforms-3\d23d74fcadfcc48a8062d9c4d4b344ab\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\anshu\.gradle\caches\transforms-3\28265d0f0fea1c0de3c062c47e9312c4\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\anshu\.gradle\caches\transforms-3\28265d0f0fea1c0de3c062c47e9312c4\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-INJECTED from E:\Spark-Women12\app\src\main\AndroidManifest.xml
-INJECTED from E:\Spark-Women12\app\src\main\AndroidManifest.xml
+INJECTED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml
+INJECTED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from E:\Spark-Women12\app\src\main\AndroidManifest.xml
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Spark-Women12\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\Spark-Women12\app\src\main\AndroidManifest.xml
-		ADDED from E:\Spark-Women12\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Spark-Women12\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml
+		ADDED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BestSecureFuture\app\src\main\AndroidManifest.xml
 activity#com.karumi.dexter.DexterActivity
 ADDED from [com.karumi:dexter:6.2.3] C:\Users\anshu\.gradle\caches\transforms-3\eba3a4faa9afdf1e8a11490436d0b679\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:27:9-29:72
 	android:theme

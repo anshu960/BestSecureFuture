@@ -2,41 +2,41 @@
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.darkness.sparkwomen"
 4    android:versionCode="1"
-5    android:versionName="1.0.9" >
+5    android:versionName="1.1.2" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="24"
-8-->E:\Spark-Women12\app\src\main\AndroidManifest.xml
+8-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->E:\Spark-Women12\app\src\main\AndroidManifest.xml
+9-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-11-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:5:5-81
-11-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:5:22-78
+11-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:5:5-81
+11-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:5:22-78
 12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-12-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:6:5-79
-12-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:6:22-76
+12-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:6:5-79
+12-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:6:22-76
 13    <uses-permission android:name="android.permission.SEND_SMS" />
-13-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:7:5-67
-13-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:7:22-64
+13-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:7:5-67
+13-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:7:22-64
 14    <uses-permission android:name="android.permission.CALL_PHONE" />
-14-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:8:5-69
-14-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:8:22-66
+14-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:8:5-69
+14-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:8:22-66
 15    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-15-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:9:5-77
-15-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:9:22-74
+15-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:9:5-77
+15-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:9:22-74
 16    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-16-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:10:5-78
-16-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:10:22-75
+16-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:10:5-78
+16-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:10:22-75
 17    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
-17-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:11:5-80
-17-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:11:22-77
+17-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:11:5-80
+17-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:11:22-77
 18    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-18-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:12:5-71
-18-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:12:22-68
+18-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:12:5-71
+18-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:12:22-68
 19    <uses-permission android:name="android.permission.CAMERA" />
-19-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:13:5-65
-19-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:13:22-62
+19-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:13:5-65
+19-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:13:22-62
 20
 21    <!-- Include required permissions for Google Maps API to run. -->
 22    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -74,67 +74,67 @@
 39-->[androidx.core:core:1.10.0-alpha01] C:\Users\anshu\.gradle\caches\transforms-3\e4ec512f148026cb7442f312071e33c4\transformed\core-1.10.0-alpha01\AndroidManifest.xml:26:22-94
 40
 41    <application
-41-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:15:5-43:19
+41-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:15:5-43:19
 42        android:allowBackup="true"
-42-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:16:9-35
+42-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:16:9-35
 43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 43-->[androidx.core:core:1.10.0-alpha01] C:\Users\anshu\.gradle\caches\transforms-3\e4ec512f148026cb7442f312071e33c4\transformed\core-1.10.0-alpha01\AndroidManifest.xml:28:18-86
 44        android:debuggable="true"
 45        android:extractNativeLibs="false"
 46        android:icon="@mipmap/ic_launcher"
-46-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:17:9-43
+46-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:17:9-43
 47        android:label="@string/app_name"
-47-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:18:9-41
+47-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:18:9-41
 48        android:roundIcon="@mipmap/ic_launcher_round"
-48-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:19:9-54
+48-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:19:9-54
 49        android:supportsRtl="true"
-49-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:20:9-35
+49-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:20:9-35
 50        android:testOnly="true"
 51        android:theme="@style/Theme.SparkWomen" >
-51-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:21:9-48
+51-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:21:9-48
 52        <activity
-52-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:22:9-28:20
+52-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:22:9-28:20
 53            android:name="com.darkness.sparkwomen.Terms_and_Condition"
-53-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:23:13-48
+53-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:23:13-48
 54            android:exported="false" >
-54-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:24:13-37
+54-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:24:13-37
 55            <meta-data
-55-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:25:13-27:36
+55-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:25:13-27:36
 56                android:name="android.app.lib_name"
-56-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:26:17-52
+56-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:26:17-52
 57                android:value="" />
-57-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:27:17-33
+57-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:27:17-33
 58        </activity>
 59        <activity android:name="com.darkness.sparkwomen.SmsActivity" />
-59-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:29:9-49
-59-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:29:19-46
+59-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:29:9-49
+59-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:29:19-46
 60        <activity android:name="com.darkness.sparkwomen.MainActivity" />
-60-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:30:9-50
-60-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:30:19-47
+60-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:30:9-50
+60-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:30:19-47
 61        <activity
-61-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:31:9-39:20
+61-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:31:9-39:20
 62            android:name="com.darkness.sparkwomen.SplashActivity"
-62-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:32:13-43
+62-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:32:13-43
 63            android:exported="true" >
-63-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:33:13-36
+63-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:33:13-36
 64            <intent-filter>
-64-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:34:13-38:29
+64-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:34:13-38:29
 65                <action android:name="android.intent.action.MAIN" />
-65-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:35:17-69
-65-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:35:25-66
+65-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:35:17-69
+65-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:35:25-66
 66
 67                <category android:name="android.intent.category.LAUNCHER" />
-67-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:37:17-77
-67-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:37:27-74
+67-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:37:17-77
+67-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:37:27-74
 68            </intent-filter>
 69        </activity>
 70        <activity android:name="com.darkness.sparkwomen.ContactActivity" />
-70-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:40:9-53
-70-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:40:19-50
+70-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:40:9-53
+70-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:40:19-50
 71
 72        <service android:name="com.darkness.sparkwomen.ServiceMine" />
-72-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:42:9-48
-72-->E:\Spark-Women12\app\src\main\AndroidManifest.xml:42:18-45
+72-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:42:9-48
+72-->E:\BestSecureFuture\app\src\main\AndroidManifest.xml:42:18-45
 73
 74        <activity
 74-->[com.karumi:dexter:6.2.3] C:\Users\anshu\.gradle\caches\transforms-3\eba3a4faa9afdf1e8a11490436d0b679\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:27:9-29:72
